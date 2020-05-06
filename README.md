@@ -3,7 +3,6 @@
 
 ## Mentoria: Diplomatura Ciencias de Datos, FAMAF, 2020
 
-## Título del Proyecto: Ciencia de Datos aplicada en la distribución de Energía Eléctrica
 ### Descripción del dataset, problemas interesantes asociados
 Se provee de un dataset que contiene la base de datos geográfica del año 2018 de la empresa ENF (Energisa Nueva Friburgo).
 El dataset contiene datos geográficos de los consumidores y de todos los activos de la distribuidora.

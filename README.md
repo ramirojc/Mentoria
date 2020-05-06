@@ -1,5 +1,5 @@
 # Analisis de calidad de servicio eléctrico
-## Aplicacion de ML sobre informacion georeferenciada
+## Aplicacion de ML sobre datos georeferenciados
 
 ## Mentoria: Diplomatura Ciencias de Datos, FAMAF, 2020
 

@@ -1,5 +1,7 @@
-# Analisis de calidad de servicio eléctrico, aplicando ML sobre informacion georeferenciada
-## Diplodatos2020
+# Analisis de calidad de servicio eléctrico
+## Aplicacion de ML sobre informacion georeferenciada
+
+## Mentoria: Diplomatura Ciencias de Datos, FAMAF, 2020
 
 ## Título del Proyecto: Ciencia de Datos aplicada en la distribución de Energía Eléctrica
 ### Descripción del dataset, problemas interesantes asociados
